@@ -1,6 +1,8 @@
 <div align="center">
   <br />
-
+  <img src="https://i.postimg.cc/xdmZqXX1/Screenshot-2025-10-16-at-10-28-41-PM.png"/>
+  <br />
+  
   <div>
     <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logoColor=white&logo=next.js&color=black"/>
     <img src="https://img.shields.io/badge/-Better Auth-black?style=for-the-badge&logoColor=white&logo=betterauth&color=black"/>
