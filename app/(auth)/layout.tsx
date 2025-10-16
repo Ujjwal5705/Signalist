@@ -3,6 +3,7 @@ import Image from "next/image";
 import {auth} from "@/lib/better-auth/auth";
 import {headers} from "next/headers";
 import {redirect} from "next/navigation";
+import { Toaster } from "sonner";
 
 const Layout = async ({ children }: { children : React.ReactNode }) => {
     const session = await auth.api.getSession({ headers: await headers() })
@@ -11,6 +12,7 @@ const Layout = async ({ children }: { children : React.ReactNode }) => {
 
     return (
         <main className="auth-layout">
+            <Toaster position="top-center" richColors />
             <section className="auth-left-section scrollbar-hide-default">
                 <Link href="/" className="auth-logo">
                     <Image src="/assets/icons/logo.svg" alt="Signalist logo" width={140} height={32} className='h-8 w-auto' />
