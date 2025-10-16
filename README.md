@@ -1,7 +1,14 @@
 <div align="center">
-  <br />
-  [Screenshot-2025-10-16-at-10-28-41-PM.png](https://postimg.cc/p92C6XQw)
-  <br />
+ <br />
+<a href="https://postimg.cc/p92C6XQw" target="_blank">
+  <img 
+    src="https://i.postimg.cc/xdmZqXX1/Screenshot-2025-10-16-at-10-28-41-PM.png" 
+    alt="Screenshot-2025-10-16-at-10-28-41-PM" 
+    style="width: auto; height: 100%; max-height: 100vh; display: block; margin: 0 auto;"
+  />
+</a>
+<br />
+
   
   <div>
     <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logoColor=white&logo=next.js&color=black"/>
