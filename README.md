@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="https://i.postimg.cc/xdmZqXX1/Screenshot-2025-10-16-at-10-28-41-PM.png"/>
+  [Screenshot-2025-10-16-at-10-28-41-PM.png](https://postimg.cc/p92C6XQw)
   <br />
   
   <div>
